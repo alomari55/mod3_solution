@@ -1,0 +1,52 @@
+
+		.box
+		{
+			width:98%;
+			height:auto;
+			padding:1% auto;
+			margin:1%;
+			background-color:#C2CDD1;
+			color:black;
+		}
+		p
+		{
+			font-size:16px bold;
+			font-family: 'Arima Madurai', cursive;
+		}
+		h1
+		{
+			text-align:center;
+			color:black;
+			font-family: 'Quicksand', sans-serif;
+		}
+		h2
+		{
+			text-align:center;
+			
+			font-family: 'Quicksand', sans-serif;
+		}
+		.navbar
+		{
+			border-radius:0;
+			border:0;
+			background-color:#C2CDD1;
+			font-size:16px;
+		}
+		#nav-list 
+		{
+			margin-top: 10px;
+			vertical-align:middle;
+		}
+		#nav-list a 
+		{
+			text-align: center;
+			color:black;
+		}
+		#nav-list a:hover 
+		{
+			background: #E7E7E7;
+		}
+		#nav-list a span 
+		{
+			font-size: 1.8em;
+		} 
